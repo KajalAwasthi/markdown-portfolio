@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Image of pokemon] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fprior1390%2Fpokemon-images%2F&psig=AOvVaw2kkldR2a_8xGAyCmiK1x7e&ust=1630424957760000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMC_xLWM2fICFQAAAAAdAAAAABAD)
